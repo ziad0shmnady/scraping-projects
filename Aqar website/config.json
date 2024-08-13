@@ -1,0 +1,20 @@
+{
+    "Aqar_website": [
+        {
+            "Apartments_for_Rent": {
+                "url": "https://sa.aqar.fm/%D8%B4%D9%82%D9%82-%D9%84%D9%84%D8%A5%D9%8A%D8%AC%D8%A7%D8%B1",
+                "all_pages": "623",
+                "page_scraped": 57,
+                "item_scraped": 440
+            }
+        },
+        {
+            "Apartments_for_Sale": {
+                "url": "https://sa.aqar.fm/%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D9%84%D9%84%D8%A8%D9%8A%D8%B9",
+                "all_pages": "1048",
+                "page_scraped": 0,
+                "item_scraped": 0
+            }
+        }
+    ]
+}
